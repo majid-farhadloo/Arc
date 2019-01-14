@@ -1,0 +1,181 @@
+p{margin:0 0 20px}img{max-width:100%;height:auto;vertical-align:middle}pre{margin:20px 0;padding:20px;color:#2080ad;background-color:#fafafa}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}blockquote{font-style:italic;margin:20px 40px;padding-left:20px;border-width:0 0 0 3px;border-style:solid;border-color:#13aff0}
+
+@media only screen 
+  and (min-device-width: 1500px) 
+  and (max-device-width: 2000px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width:70%;
+		font-size:12px;
+}
+}
+
+
+@media only screen 
+  and (min-device-width: 2000px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width:65%;
+		font-size:13px;
+}
+}
+
+
+@media only screen 
+  and (min-device-width: 1339px) 
+  and (max-device-width: 1500px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width:70%;
+		font-size:12px;
+}
+}
+
+
+@media only screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1338px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width:85%;
+		font-size:12px;
+}
+}
+
+
+@media only screen 
+  and (min-device-width: 1151px) 
+  and (max-device-width: 1212px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width: 90%;
+		font-size:10px;
+}
+}
+
+
+@media only screen 
+  and (min-device-width: 1091px) 
+  and (max-device-width: 1150px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width: 90%;
+		font-size:11px;
+}
+}
+
+@media only screen 
+  and (min-device-width: 1013px) 
+  and (max-device-width: 1090px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width: 95%;
+		font-size:10px;
+}
+}
+
+@media only screen 
+  and (min-device-width: 941px ) 
+  and (max-device-width: 1013px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width: 110%;
+		font-size:10px;
+}
+}
+
+@media only screen 
+  and (min-device-width: 857px ) 
+  and (max-device-width: 941px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width: 125%;
+		font-size:9.5px;
+}
+}
+
+@media only screen 
+  and (min-device-width: 795px ) 
+  and (max-device-width: 857px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width: 135%;
+		font-size:8.5px;
+}
+}
+
+
+
+@media only screen 
+  and (min-device-width: 480px) 
+  and (max-device-width: 780px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width:140%;
+		font-size:10px;
+}
+}
+
+@media only screen  
+  and (max-device-width: 584px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width: 100%;
+		font-size:10.5px;
+}
+}
+
+
+
+@media only screen  
+  and (max-device-width: 584px)
+	  and (min-device-width: 519px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width: 82%;
+		font-size:11px;
+}
+}
+
+
+@media only screen  
+  and (max-device-width: 519px)
+	  and (min-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width: 85%;
+		font-size:10px;
+}
+}
+
+
+@media only screen  
+  and (max-device-width: 491px)
+	  and (min-device-width: 400px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width: 90%;
+		font-size:10px;
+}
+}
+
+@media only screen  
+  and (max-device-width: 491px)
+	  and (min-device-width: 400px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+		#ocean_contact_info-3 span{
+	width: 90%;
+		font-size:10px;
+}
+}
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+		#ocean_contact_info-3 span{
+		width: 130%;
+		font-size:10px;
+}
+}
